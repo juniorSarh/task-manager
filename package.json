@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/juniorSarh/task-manager/issues"
   },
-  "homepage": "https://github.com/juniorSarh/task-manager#readme"
+  "homepage": "https://github.com/juniorSarh/task-manager#readme",
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  }
 }
